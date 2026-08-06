@@ -2,24 +2,26 @@
 
 > _"¡Buenos días, estrellitas, la Tierra les dice hola!"_ ✨
 
-Bienvenido al **Proyecto Prácticas 2026** en este repositorio podrás explorar diferente módulos con el fin de poder expandir el conocimiento como programador en busca de prácticas.
+Bienvenido al **Proyecto Prácticas 2026**.
 
-Este es un proyecto nace con un propósito claro e importante y es poder poner en práctica y brindar conocimientos adquiridos en mi recorrido como estudiante de la Universidad del Valle, invitandote a ti como programador a que no dudes en echar un vistazo.
+En este repositorio podrás explorar diferentes módulos con el fin de poder expandir el conocimiento como programador en busca de prácticas.
+
+Este es un proyecto que nace con un propósito claro e importante y es poder poner en práctica y brindar conocimientos adquiridos en mi recorrido como estudiante de la **Universidad del Valle**, te invito a recorrer este proyecto.
 
 En este repositorio puedes encontrar mi proceso como programador en el cual voy a llevar a cabo un recorrido por diferentes tecnologías con el fin de:
 
-- Recordar tecnologías.
+- Reforzar tecnologías ya estudiadas.
 - Aprender nuevas tecnologías.
 - Fortalecer los conocimientos de programación.
-- Encontrar practicás como programador.
-- Desarrollar habilidades de programador.
+- Encontrar prácticas como desarrollador de software.
+- Desarrollar habilidades como desarrollador de software.
 - Aportar al mundo con un granito de arena.
 
 ## Filosofía
 
 **_"No estudiamos para aprobar. Construimos para demostrar de lo que somos capaces."_**
 
-Con este proyecto no busco solo ser un estudiante más el cual solo saca buenas calificaciones, quiero ser un estudiante y futuro programado el cual hace bien lo que se propone.
+Este proyecto busca demostrar que el aprendizaje no termina al aprobar una asignatura. Cada módulo, ejercicio y proyecto representa un paso hacia mi crecimiento como desarrollador de software.
 
 ---
 
@@ -31,21 +33,21 @@ git clone https://github.com/fulkns645/proyecto-practicas-2026.git
 
 ## Organización del proyecto
 
-Aquí encontraras diferentes módulos que se actualizan con cada modulo completado y están organizados de la siguiente manera:
+Aquí encontrarás diferentes módulos que se actualizan con cada módulo completado y están organizados de la siguiente manera:
 
-- [ ] 01-Python
-- [ ] 02-SQL
-- [ ] 03-Java
-- [ ] 04-JavaScript
-- [ ] 05-Node.js
-- [ ] 06-React
-- [ ] 07-GIT
-- [ ] 08-HTML y CSS
-- [ ] 09-Entrevistas
-- [ ] 10-Psicotécnicas
-- [ ] 11-Proyectos
-- [ ] 12-Recursos
-- [ ] 13-Bitacoras
+- [ ] 01-python
+- [ ] 02-sql
+- [ ] 03-java
+- [ ] 04-javascript
+- [ ] 05-nodejs
+- [ ] 06-react
+- [ ] 07-git
+- [ ] 08-html-css
+- [ ] 09-entrevistas
+- [ ] 10-psicotecnicas
+- [ ] 11-proyectos
+- [ ] 12-recursos
+- [ ] 13-bitacoras
 
 ## Estado del Proyecto
 
@@ -60,14 +62,18 @@ Preparación del entorno y documentación.
 ## Redes
 
 - Instagram: [fulkns645](https://www.instagram.com/fulkns645)
-- Github: [fulkns645](https://github.com/fulkns645)
+- GitHub: [fulkns645](https://github.com/fulkns645)
 
 ## Entorno de desarrollo:
 
-- Windows 11
+- Windows 11 Home Single Language 25H2
 - Visual Studio Code
+- Git
+- Python 3.13
+- Node.js 22
+- Docker Desktop
 
 ## Autor
 
 **_Juan Sebastian Ospina Maya_**  
-Mentoria y acompañamiento: **_ChatGPT by OpenAI_**
+Mentoría técnica **_ChatGPT by OpenAI_**
