@@ -1,54 +1,68 @@
-# Proyecto Practicas 2026
+# Proyecto Prácticas 2026
+
+> _"¡Buenos días, estrellitas, la Tierra les dice hola!"_ ✨
+
+Bienvenido al **Proyecto Prácticas 2026** en este repositorio podrás explorar diferente módulos con el fin de poder expandir el conocimiento como programador en busca de prácticas.
+
+Este es un proyecto nace con un propósito claro e importante y es poder poner en práctica y brindar conocimientos adquiridos en mi recorrido como estudiante de la Universidad del Valle, invitandote a ti como programador a que no dudes en echar un vistazo.
+
+En este repositorio puedes encontrar mi proceso como programador en el cual voy a llevar a cabo un recorrido por diferentes tecnologías con el fin de:
+
+- Recordar tecnologías.
+- Aprender nuevas tecnologías.
+- Fortalecer los conocimientos de programación.
+- Encontrar practicás como programador.
+- Desarrollar habilidades de programador.
+- Aportar al mundo con un granito de arena.
+
+## Filosofía
 
 **_"No estudiamos para aprobar. Construimos para demostrar de lo que somos capaces."_**
 
----
-
-## informacion
-
-- **_fecha del proyecto:_** 05/08/2026
+Con este proyecto no busco solo ser un estudiante más el cual solo saca buenas calificaciones, quiero ser un estudiante y futuro programado el cual hace bien lo que se propone.
 
 ---
 
-En este repositorio se puede en contrar mi proceso como programador en el cual coy a va a llevar a cabo un recorrido por diferentes tecnologias con el fin de:
-
-- Recordar tecnologias
-- Pulir conocimiento
-- Aprender nuevas tecnologias
-- Encontrar practicas como programador
-- Desarrollar habilidad de programador
-- Aportar al mundo con un granito de arena
-
-Si desea copiar el repositorio:
+Si deseas clonar el repositorio:
 
 ```bash
-
+git clone https://github.com/fulkns645/proyecto-practicas-2026.git
 ```
 
-Esto te permitira aprender o reforzar conocimiento.
+## Organización del proyecto
 
-Aquí encontras diferentes modulos que estan organizados de la siguiente manera:
+Aquí encontraras diferentes módulos que se actualizan con cada modulo completado y están organizados de la siguiente manera:
 
-1.  Python
-2.  SQL
-3.  Java
-4.  JavaScript
-5.  Node.js
-6.  React
-7.  GIT
-8.  HTML y CSS
-9.  Entrevistas
-10. Psicotecnicas
-11. Proyectos
-12. recursos
-13. bitacoras
+- [ ] 01-Python
+- [ ] 02-SQL
+- [ ] 03-Java
+- [ ] 04-JavaScript
+- [ ] 05-Node.js
+- [ ] 06-React
+- [ ] 07-GIT
+- [ ] 08-HTML y CSS
+- [ ] 09-Entrevistas
+- [ ] 10-Psicotécnicas
+- [ ] 11-Proyectos
+- [ ] 12-Recursos
+- [ ] 13-Bitacoras
+
+## Estado del Proyecto
+
+🟢 En desarrollo
+
+Módulo actual:
+Preparación del entorno y documentación.
+
+> [!NOTE]
+> Este repositorio se encuentra en fase de desarrollo puede que hayan cambios repentinos.
 
 ## Redes
 
-- instagram: [fulkns645](https://www.instagram.com/fulkns645)
+- Instagram: [fulkns645](https://www.instagram.com/fulkns645)
 - Github: [fulkns645](https://github.com/fulkns645)
 
-## Coding en:
+## Entorno de desarrollo:
 
 - Windows 11
 - Visual Studio Code
@@ -56,4 +70,4 @@ Aquí encontras diferentes modulos que estan organizados de la siguiente manera:
 ## Autor
 
 **_Juan Sebastian Ospina Maya_**  
-En acompañamiento: **_ChatGPT by OpenAI_** con un proceso de mentoría
+Mentoria y acompañamiento: **_ChatGPT by OpenAI_**
